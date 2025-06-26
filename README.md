@@ -52,7 +52,7 @@ _Status_: Prototype / In active development
 ```bash
 # Clone the repo
 git clone https://github.com/AbdelrahmanSayed-CS/Simple-Calculator-or-Unit-Converter.git
-cd your-repo-name
+cd Simple-Calculator-or-Unit-Converter
 
 # Compile
 javac Calculator.java
